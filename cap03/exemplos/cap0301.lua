@@ -1,3 +1,4 @@
+---@diagnostic disable: discard-returns
 -- 3.2.1 Desvio condicional simples
 io.write("Entre 1o. valor: ")
 local a = tonumber(io.read())
