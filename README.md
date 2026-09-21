@@ -20,4 +20,4 @@ Este repositório contém a resolução dos exercícios e os códigos de exemplo
 
 Este repositório contém apenas as **minhas resoluções pessoais e implementações próprias** dos exercícios propostos na obra. 
 
-Todos os direitos autorais do livro, enunciados originais e estrutura didática pertencem ao autor **osé Augusto N. G. Manzano** e à **Novatec Editora**.
+Todos os direitos autorais do livro, enunciados originais e estrutura didática pertencem ao autor **José Augusto N. G. Manzano** e à **Novatec Editora**.
